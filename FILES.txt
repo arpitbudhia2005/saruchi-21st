@@ -1,0 +1,17 @@
+HOW TO SET UP (Saruchi's birthday site)
+
+music/  (your downloaded songs, exact names, mp3)
+  kho-gaye-hum-kahan.mp3     plays from the lock screen through Chapter 3
+  tera-yaar-hoon-main.mp3    plays in Chapters 4 and 5 and the stats
+  birthday.mp3               plays when the candles are blown out
+
+video/
+  memories.mp4               the video that appears after the Memory Jar
+  (add more videos by editing "videos" at the top of index.html)
+
+photos/
+  multani.jpg                the Multani Mitti photo
+  evidence1.jpg ... evidence4.jpg
+
+Open index.html in a browser to test. Password: 2005
+To share it, upload the whole folder (Netlify Drop / GitHub Pages) and send her the link.
